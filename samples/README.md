@@ -61,7 +61,7 @@ Set up a sample project
 
 If you have not already done so, clone the kotlin-dsl repository:
 
-    git clone git@github.com:gradle/kotlin-dsl.git # ($REPO_ROOT)
+    git clone https://github.com/gradle/kotlin-dsl.git # ($REPO_ROOT)
 
 _Note: The remainder of these instructions focus on the `hello-world` sample project, but will work equally well for any of the other samples._
 
